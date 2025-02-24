@@ -1,0 +1,64 @@
+[33mcommit d59984ccafa9481e0e09d5596017ac9d3bc90ef6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Guillaume Brillet <guillaume.brillet@gmail.com>
+Date:   Wed Feb 5 22:00:48 2025 +0100
+
+    add ?!
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 280a9a4..521070d 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -6,6 +6,6 @@[m
+     <title>Document</title>[m
+ </head>[m
+ <body>[m
+[31m-    <h1>Les chevaliers noirs !</h1>[m
+[32m+[m[32m    <h1>Les chevaliers noirs !?!</h1>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
+
+[33mcommit 0ce6b70027b398869d915f59ace1e7e543a18504[m
+Author: Guillaume Brillet <guillaume.brillet@gmail.com>
+Date:   Tue Feb 4 21:38:40 2025 +0100
+
+    add !
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 2bfecff..280a9a4 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -6,6 +6,6 @@[m
+     <title>Document</title>[m
+ </head>[m
+ <body>[m
+[31m-    <h1>Les chevaliers noirs</h1>[m
+[32m+[m[32m    <h1>Les chevaliers noirs !</h1>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
+
+[33mcommit ee04a3fb4d69aca5bbc965ba9e5be49c26a62c70[m
+Author: Guillaume Brillet <guillaume.brillet@gmail.com>
+Date:   Tue Feb 4 21:35:43 2025 +0100
+
+    add the first title of the website
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2bfecff[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,11 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>Document</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m    <h1>Les chevaliers noirs</h1>[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
